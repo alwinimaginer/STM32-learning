@@ -1,8 +1,8 @@
-#include "led.h"
-#include <stdint.h>
+#include "led.h"                             // header file which contains the protopyes of functions
+#include <stdint.h>                          // used for accessing uint32_t datatype for 32 bit register mcu.
 
 typedef enum {                                // Enum for different states of light
-	RED,
+	RED,                                      // RED = 0 , if not declared any value and GREEN is one and so on.
 	YELLOW,
 	GREEN
 }trafficstate;
