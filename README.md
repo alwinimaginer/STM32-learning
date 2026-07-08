@@ -6,7 +6,7 @@ P2) Video of button interrupt project:
 
 P4) function pointer project:
 video         : https://github.com/user-attachments/assets/5f3fd6ee-6d84-435e-a1c3-ecb3c8564d46
-block diagrma : <img width="1536" height="1024" alt="P4_function_pointer_BD" src="https://github.com/user-attachments/assets/bbe9da57-ce3a-4b2c-9ca7-827165ad1ebf" />
+block diagram : <img width="1536" height="1024" alt="P4_function_pointer_BD" src="https://github.com/user-attachments/assets/bbe9da57-ce3a-4b2c-9ca7-827165ad1ebf" />
 
 
 
